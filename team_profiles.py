@@ -41,8 +41,8 @@ def get_initial_team() -> List[TeamMember]:
         # (Add your photo URL e.g. "https://github.com/<username>.png" or local path)
         # ----------------------------------------------------------------------
         TeamMember(
-            student_id="Lourd Kenneth Hugo",  # example: "2024-10123"
-            full_name="2411189", # example: "Maria Clara Santos"
+            student_id="2411189",  # example: "2024-10123"
+            full_name="Lourd Kenneth Hugo", # example: "Maria Clara Santos"
             role="Lead Frontend UI Developer",
             specialization="Flet Reactive Widgets & Material 3 Layouts",
             github_handle="@LourdKen-cspc",          # example: "@mariaclara-cspc"
