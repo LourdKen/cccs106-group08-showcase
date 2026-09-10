@@ -70,7 +70,7 @@ def get_initial_team() -> List[TeamMember]:
         # ----------------------------------------------------------------------
         TeamMember(
             student_id="2410628",  # example: "2024-10789"
-            full_name="[Dev 3] Marc Christan Carolino", # example: "Angelo Reyes"
+            full_name="Marc Christan Carolino", # example: "Angelo Reyes"
             role="QA & Feature Engineer",
             specialization="Testing Diagnostics, Theme Engine & Controls",
             github_handle="@macarolino-litam",          # example: "@areyes-cspc"
